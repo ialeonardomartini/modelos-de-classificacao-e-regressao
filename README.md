@@ -1,44 +1,58 @@
-# Modelos de Classificação e Regressão 📚
+# 🤖 Modelos de Classificação e Regressão com Machine Learning  
 
-Este repositório documenta meu aprendizado e progresso no curso **Modelos de Classificação e Regressão** da Asimov Academy. Aqui, compartilho conceitos, práticas e projetos desenvolvidos ao longo do curso, aplicando-os de forma prática para reforçar meus conhecimentos em Machine Learning. 🚀
+![Python](https://img.shields.io/badge/Python-ML-yellow?style=for-the-badge&logo=python)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?style=for-the-badge&logo=scikitlearn)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-blue?style=for-the-badge&logo=tensorflow)  
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?style=for-the-badge&logo=pandas)  
 
-## 📌 O que estou aprendendo
-- 📊 **Classificação** com o conjunto de dados MNIST
-- 🔍 **Classificador binário**: introdução e medida de acurácia
-- 📏 **Métricas essenciais** para um modelo de classificação
-- 🎯 **Classificação multiclasse** e **multilabel**
-- 📈 **Regressão linear**
-- ⚡ **Gradient Descent (SGD)**
-- 📊 **Regressões polinomiais**
-- 🔄 **Balanço viés-variância**
-- 📏 **Ridge Regression**
-- 🔗 **Regressão logística**
-- 🔢 **Regressão Softmax**
+## 📌 Sobre este repositório  
 
-## 📂 Projetos Práticos
-Aqui estão alguns projetos que desenvolvi para consolidar meu aprendizado:
+Este repositório é um **portfólio de aprendizado e prática** em **Machine Learning**, aplicando os conceitos do curso **Modelos de Classificação e Regressão** da **Asimov Academy**.  
 
-- 📦 **Regressão linear** aplicada a dados de **E-commerce**
-- 🎯 **Regressão logística** aplicada a dados de **publicidade**
-
-## 🎯 Objetivo do Repositório
-✅ Consolidar meu aprendizado em Machine Learning.  
-✅ Demonstrar minhas habilidades práticas na área.  
-✅ Criar um portfólio com aplicações reais de **classificação e regressão**.  
-✅ Compartilhar insights e soluções com a comunidade.  
-
-## 🚀 Tecnologias Utilizadas
-- Python 🐍
-- NumPy & Pandas 📊
-- Scikit-learn 🤖
-- Matplotlib & Seaborn 📈
-
-## 📜 Sobre o Conteúdo
-O curso apresenta modelos de classificação binária e métricas essenciais para avaliação de desempenho. Avançamos para classificação multiclasse e multilabel, aprendendo a prever múltiplas classes simultaneamente. 
-
-Em seguida, exploramos a **regressão linear** e o uso do **Gradient Descent** como algoritmo de otimização. O estudo finaliza com abordagens como **regressões polinomiais, regressões logísticas e regressão Softmax**, essenciais para a modelagem de dados categóricos.
+Aqui, demonstro como construir modelos de **classificação e regressão**, avaliando seu desempenho e interpretando resultados. Além do conteúdo do curso, adiciono práticas extras e experimentos para reforçar o aprendizado. 🚀  
 
 ---
-📌 **Acompanhe minha jornada e evolução no mundo do Machine Learning!**
 
-💡 **Curso da Asimov Academy | Aprendizado em progresso 🚀**
+## 📚 O que estou aprendendo?  
+
+### ✔ **Modelos de Classificação**  
+- **Classificação binária**: introdução e medidas de acurácia  
+- **Classificação multiclasse e multilabel**  
+- **Métricas de desempenho**: precisão, recall, F1-score  
+
+### ✔ **Modelos de Regressão**  
+- **Regressão linear** e **Gradiente Descendente Estocástico (SGD)**  
+- **Regressão polinomial** e ajuste de curvas  
+- **Balanço viés-variância** e **Ridge Regression**  
+
+### ✔ **Regressão para Classificação**  
+- **Regressão Logística** e tomada de decisão  
+- **Regressão Softmax** para classificação de múltiplas classes  
+
+### ✔ **Projetos Práticos**  
+- **Previsão de vendas em E-commerce** 📊  
+- **Análise de desempenho de anúncios publicitários** 📈  
+- **Reconhecimento de números escritos à mão (MNIST)** 🔢  
+
+---
+
+## 🏆 Objetivo  
+
+O objetivo deste repositório é **demonstrar habilidades em Machine Learning**, construindo e avaliando modelos de **classificação e regressão** para resolver problemas reais.  
+
+Se você deseja aprender **ML** e desenvolver aplicações preditivas, este repositório pode ser uma excelente fonte de estudo! 💡  
+
+---
+
+## 🔧 Tecnologias utilizadas  
+
+- **Python** 🐍  
+- **Scikit-Learn** 🤖  
+- **TensorFlow/Keras** 🔥  
+- **Pandas & NumPy** 📊  
+- **Matplotlib & Seaborn** 🎨  
+
+---
+
+🚀 **Vamos construir modelos de Machine Learning!** Se quiser contribuir ou trocar ideias, fique à vontade para abrir uma *issue* ou um *pull request*!  
+

@@ -22,7 +22,7 @@ Aqui, demonstro como construir modelos de **classificação e regressão**, aval
 
 ### ✔ **Modelos de Regressão**  
 - **Regressão linear** e **Gradiente Descendente Estocástico (SGD)**  
-- **Regressão polinomial** e ajuste de curvas  
+- **Regressão polinomial**
 - **Balanço viés-variância** e **Ridge Regression**  
 
 ### ✔ **Regressão para Classificação**  
@@ -30,9 +30,9 @@ Aqui, demonstro como construir modelos de **classificação e regressão**, aval
 - **Regressão Softmax** para classificação de múltiplas classes  
 
 ### ✔ **Projetos Práticos**  
+- **Reconhecimento de números escritos à mão (MNIST)** 🔢  
 - **Previsão de vendas em E-commerce** 📊  
 - **Análise de desempenho de anúncios publicitários** 📈  
-- **Reconhecimento de números escritos à mão (MNIST)** 🔢  
 
 ---
 
